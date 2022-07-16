@@ -1,5 +1,7 @@
 # QuadGames Website
 
+https://quadgames.xyz
+
 ## Usage
 
 Install dependencies

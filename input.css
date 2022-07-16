@@ -34,7 +34,7 @@
 
 @media (max-width: 576px) {
    #hero {
-      background-image: url("../images/mobile/image-bg.jpeg");
+      background-image: url("../images/mobile/image-bg.webp");
       background-position: center;
       height: 100vh;
    }
